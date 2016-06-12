@@ -1,0 +1,12 @@
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\bin\Debug\BOOKTALK.exe.config
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\bin\Debug\BOOKTALK.exe
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\bin\Debug\BOOKTALK.pdb
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\obj\Debug\BOOKTALK.csprojResolveAssemblyReference.cache
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\obj\Debug\BOOKTALK.Form1.resources
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\obj\Debug\BOOKTALK.Properties.Resources.resources
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\obj\Debug\BOOKTALK.csproj.GenerateResource.Cache
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\obj\Debug\BOOKTALK.exe
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\obj\Debug\BOOKTALK.pdb
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\obj\Debug\BOOKTALK.ReadFile.resources
+c:\users\nguyenanh\documents\visual studio 2012\Projects\BOOKTALK\BOOKTALK\obj\Debug\BOOKTALK.ReadText.resources
+C:\Users\NguyenAnh\documents\visual studio 2012\Projects\Booktalk\BOOKTALK\obj\Debug\BOOKTALK.csproj.ResolveComReference.cache
